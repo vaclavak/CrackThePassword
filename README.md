@@ -6,7 +6,12 @@ Created by vaclavak
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How it works:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This simple piece of code generates a random password that is 100 characters long
+This simple piece of code generates a random password, the lenght depends on the mode you select, this feature becomes available in version 1.1
+
+Easy Mode (Enter "easy" when the program asks you which mode you want to use) - 100 characters long
+Hard Mode (Enter "hard" when the program asks you which mode you want to use) - 2m characters long
+
+I know, 100 to 2m is a big jump
 
 An example password:
 "k3jgIg8isibbM7WPNAK0v5DKcH4RSBflgp8zyTUl4htqkEikqTvTWjMc8CHs3y8WKv222Jnm4g2qcDfVdsBWWEY1eCRz8hHIdj3t"
