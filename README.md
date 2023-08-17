@@ -13,6 +13,13 @@ Hard Mode (Enter "hard" when the program asks you which mode you want to use) - 
 
 I know, 100 to 2m is a big jump
 
+
+IMPORTANT:
+This project is outdaited and doesnt work properly and I am too lazy to updated.
+The issue is that whenever you fail the password a new one is generated making it almost impossible to crack...
+
+
+
 An example password:
 "k3jgIg8isibbM7WPNAK0v5DKcH4RSBflgp8zyTUl4htqkEikqTvTWjMc8CHs3y8WKv222Jnm4g2qcDfVdsBWWEY1eCRz8hHIdj3t"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
