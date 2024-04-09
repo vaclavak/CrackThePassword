@@ -15,7 +15,7 @@ I know, 100 to 2m is a big jump
 
 
 IMPORTANT:
-This project is outdaited and doesnt work properly and I am too lazy to updated.
+This project is outdated and doesnt work properly and I am too lazy to update it.
 The issue is that whenever you fail the password a new one is generated making it almost impossible to crack...
 
 
